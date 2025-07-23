@@ -1,5 +1,5 @@
 +++
-title = "Home"
+title = "CV"
 menu = "main"
 weight = 1
 +++
@@ -29,4 +29,18 @@ Recently, I’m researching K-pop fandom interaction structures and using networ
     - 2018 ~ 2023
     - Sociology
     - Software
+
+---
+
+**Projects**
+
+- graph-CR
+    - A Python package for calculating the CR and GCR of a given graph, and visualizing its hierarchical structure.[^2]
+    - Coming soon...
+
+[^2]: Based on *Mones, Enys, Lilla Vicsek, and Tamás Vicsek. 2012. “Hierarchy Measure for Complex Networks.” PloS One 7 (3): e33799.*
+
+
+
+    
 
