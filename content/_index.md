@@ -34,13 +34,16 @@ Recently, I’m researching K-pop fandom interaction structures and using networ
 
 **Projects**
 
-- graph-CR
-    - A Python package for calculating the CR and GCR of a given graph, and visualizing its hierarchical structure.[^2]
-    - Coming soon...
+- [easy-detm](https://pypi.org/project/easy-detm/)
+    - A refactored interface for the original Dynamic Embedded Topic Model (DETM), with visualization tools for temporal topic modeling.
 
-[^2]: Based on *Mones, Enys, Lilla Vicsek, and Tamás Vicsek. 2012. “Hierarchy Measure for Complex Networks.” PloS One 7 (3): e33799.*
+---
 
+**Conferences**
 
-
-    
-
+- 2025 Fall KSA
+    - *팬덤의 평등성과 위계성: 중국 온라인 커뮤니티 네트워크 분석*
+- 2026 Spring KSA
+    - *팬덤은 어떻게 서로 연결되는가? LLM 기반 담화 실천 분류와 K-pop 팬덤 간 상호작용 네트워크 분석*
+- 2026 ASA
+    - *Between Equality and Hierarchy in K-pop Fandom: A Network Analysis of Chinese Online Communities*
