@@ -5,11 +5,17 @@ weight = 1
 +++
 
 
-Hi I’m Jamus Su . I am interested in relational sociology
+Hi, I'm Su Jiamu, a Ph.D. student in Sociology at Sungkyunkwan University (SKKU).
 
-Recently, I’m researching K-pop fandom interaction structures and using network analysis methods to explore and explain the structural differences between different types of fan communities.[^1]
+My research interests include:
 
-[^1]: planned to be submitted for publication in 2025
+- Media sociology (정보사회학)
+- Social networks (소셜네트워크)
+- Computational sociology (컴퓨테이션 사회학)
+- Global and transnational sociology (글로벌 사회학)
+- Comparative sociology (비교사회학)
+
+My current research uses social network analysis to study K-pop fandoms. I examine how the horizontal and hierarchical structures observed within these fandoms can be understood from a cultural perspective, as well as the mechanisms through which cross-fandom connections form. I am also interested in combining agent-based modeling (ABM) with social network analysis for social-science simulations and the identification of causal mechanisms.
 
 ---
 
