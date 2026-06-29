@@ -1,12 +1,12 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://jamusu.com"
+baseURL = "https://about.sujiamu.com"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Hi, I'm Jamus Su"
+title = "Hi, I'm Su Jiamu"
 author = "Jamus Su"
 copyright = "Copyright © 2025, Jamus Su."
 languageCode = "en-US"
